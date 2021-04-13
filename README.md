@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://camo.githubusercontent.com/2b88dd35b2d940a8ed4e81671a4164ffe48301e722e7002240bb45edb7dcecdb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d343941413236266c6162656c436f6c6f723d303030303030" alt="PRs welcome!" />
 
   <img alt="License" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/devfinances.png">
 </p>
