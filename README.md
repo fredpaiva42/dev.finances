@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/devfinances.png">
 </p>
 
 <br>
