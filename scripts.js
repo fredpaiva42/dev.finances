@@ -120,7 +120,7 @@ const Utils = {
         return signal + value
     },
     formatAmount(value) {
-        value = Number(value.replace(/\,\./g, "")) * 100
+        value = Number(value.replace(/\,?\.?/g, "")) * 100
         
         return value
     },
